@@ -29,3 +29,13 @@ body {
 .logo {
   height: 20px;
 }
+
+.contenedor-ppal {
+  height: 550px;
+  min-width: 600px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
